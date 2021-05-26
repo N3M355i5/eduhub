@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/eduhub/static/css/main.92380829.chunk.css",
+    "main.js": "/eduhub/static/js/main.9689ba8a.chunk.js",
+    "main.js.map": "/eduhub/static/js/main.9689ba8a.chunk.js.map",
+    "runtime-main.js": "/eduhub/static/js/runtime-main.92b878ff.js",
+    "runtime-main.js.map": "/eduhub/static/js/runtime-main.92b878ff.js.map",
+    "static/css/2.8f6f26e1.chunk.css": "/eduhub/static/css/2.8f6f26e1.chunk.css",
+    "static/js/2.6e460de4.chunk.js": "/eduhub/static/js/2.6e460de4.chunk.js",
+    "static/js/2.6e460de4.chunk.js.map": "/eduhub/static/js/2.6e460de4.chunk.js.map",
+    "index.html": "/eduhub/index.html",
+    "static/css/2.8f6f26e1.chunk.css.map": "/eduhub/static/css/2.8f6f26e1.chunk.css.map",
+    "static/css/main.92380829.chunk.css.map": "/eduhub/static/css/main.92380829.chunk.css.map",
+    "static/js/2.6e460de4.chunk.js.LICENSE.txt": "/eduhub/static/js/2.6e460de4.chunk.js.LICENSE.txt",
+    "static/media/EduhubLogo.6029466a.png": "/eduhub/static/media/EduhubLogo.6029466a.png",
+    "static/media/EduhubLogo.fba641c0.jpg": "/eduhub/static/media/EduhubLogo.fba641c0.jpg",
+    "static/media/mdb.css": "/eduhub/static/media/arrow_right.0897f985.svg",
+    "static/media/ds2.88272de6.png": "/eduhub/static/media/ds2.88272de6.png",
+    "static/media/all.min.css": "/eduhub/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/pf1.88f9cb5b.png": "/eduhub/static/media/pf1.88f9cb5b.png",
+    "static/media/slick-theme.css": "/eduhub/static/media/slick.c94f7671.ttf",
+    "static/media/sort_img.26098497.png": "/eduhub/static/media/sort_img.26098497.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92b878ff.js",
+    "static/css/2.8f6f26e1.chunk.css",
+    "static/js/2.6e460de4.chunk.js",
+    "static/css/main.92380829.chunk.css",
+    "static/js/main.9689ba8a.chunk.js"
+  ]
+}
